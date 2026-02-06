@@ -1,7 +1,7 @@
 # TaskFlow Todo App
 
 Name: Jonathan Maydan  
-UMID: [add your UMID]
+UMID: jmaydan
 
 A Jac client-side todo application with AI features (categorization, meal planner, and AI Task Studio).
 
