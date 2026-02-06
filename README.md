@@ -5,7 +5,7 @@ UMID: jmaydan
 
 A Jac client-side todo application with AI features (categorization, meal planner, and AI Task Studio).
 
-## Standout Extra Credit Feature
+## Extra Credit Feature
 
 **AI Task Studio**: Describe a big goal and the app generates a prioritized, time-estimated task plan. You can review the steps, see total estimated time, and add the full plan to your todo list with one click. Manual todos are also auto-prioritized and time-estimated by the AI.
 
